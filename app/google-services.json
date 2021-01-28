@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "617659816327",
+    "project_id": "schoolprojectx-30220",
+    "storage_bucket": "schoolprojectx-30220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617659816327:android:448467cc7725b97eb15b22",
+        "android_client_info": {
+          "package_name": "com.example.strathmore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617659816327-9kc6hnqlpmeqa8vl73inoume4t09gdn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.strathmore",
+            "certificate_hash": "9004fd21117828576553c56e9f03ca533d04cf08"
+          }
+        },
+        {
+          "client_id": "617659816327-qfq1t62fe5eo72blbtiolm5niujiiop0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI8EoVi-95wPRvgY5GrnX24igTy3cna1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617659816327-qfq1t62fe5eo72blbtiolm5niujiiop0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
